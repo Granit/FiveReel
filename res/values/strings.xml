@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FiveReel</string>
+    <string name="game">Игра</string>
+    <string name="exit">Выход</string>
+    <string name="spin">Крутить</string>
+    <string name="credits">Кредиты</string>
+    <string name="bet">Ставка: %s</string>
+    <string name="win">Выигрыш</string>
+    <string name="bonus_game">Бонусная игра</string>
+</resources>
